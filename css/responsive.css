@@ -1,0 +1,116 @@
+@media (min-width: 320px) and (max-width: 575px){
+
+    .banner-content h2 {
+        margin-top: 40px;
+        font-size: 40px;
+    }
+
+    .banner-button a {
+        margin: 0px 6px;
+        padding: 12px 17px;
+        font-size: 13px;
+    }
+    .nav-items {
+        margin-left: 45px;
+    }
+
+    .banner-button {
+        text-align: center;
+        padding-top: 75px;
+    }
+
+    .about-content p {
+        padding: 0 18px;
+        font-size: 13px;
+        margin-bottom: 70px;
+    }
+
+    .food-info {
+        width: 275px;
+    }
+
+    .food-info h2 {
+        font-size: 28px;
+    }
+
+
+    .food-info p {
+        padding: 0 19px;
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .bootom-img img {
+        padding: 10px 3px;
+        max-width: 80px;
+    }
+
+    .menu-title h2 {
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+
+    .menu-title img {
+        margin-bottom: 10px;
+        max-width: 170px;
+    }
+
+    .menu-first h5 {
+        font-size: 14px;
+    }
+
+    .menu-first p {
+        font-size: 9px;
+        margin-top: 6px;
+        margin-bottom: 15px;
+    }
+
+    .main-menu{
+        margin-top: -10px;
+    }
+
+    .review-box{
+        width: 320px;
+    }
+
+    .review-box h2 {
+        padding: 30px 0 22px;
+        font-size: 27px;
+    }
+
+    .review-box img{
+        max-width: 150px;
+    }
+
+    .review-box h6 {
+        font-size: 16px;
+        padding: 12px 25px;
+    }
+
+    .login-img img {
+        margin-bottom: 15px;
+    }
+
+    .login-info {
+        padding: 0px 0 30px;
+    }
+
+    .login-info h2 {
+        font-size: 30px;
+    }
+
+    .login-info p {
+        font-size: 16px;
+        padding: 0 30px;
+        margin-bottom: 0px;
+    }
+
+    button.btns {
+        margin-left: 80px;  
+    }
+
+    .footer-icons {
+        margin-left: 110px;
+    }
+    
+}
